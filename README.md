@@ -1,6 +1,4 @@
-# Добро пожаловать! 
+# Welcome! 
 
-Ты попал туда, где узнаешь подробно о индивидуальном дозиметрическом контроле 
-хрусталика глаза (человека) на основе ТЛД (термолюминесцентная дозиметрия) облучения. 
-
-В файле target_tasks_doza # заметки по курсачу! 
+You have got to the place where you will learn in detail about the individual dosimetric control
+of the lens of the eye based on TLD (thermoluminescent dosimetry) irradiation.
